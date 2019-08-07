@@ -15,4 +15,6 @@ All materials and documentation produced by this project are licensed under the 
 
 ### Agenda
 
-tba
+This working group has been convened to discuss and attempt to implement the mapping of Cuneiform and especially Hittite text editions to [TEI-EpiDoc](http://epidoc.sf.net/) XML, and their display and publication through enhancement and customization of the EFES platform. The group comprises scholars with some combination of: (a) interest in digital publication of Hittite, (b) experience with the Oracc’s ATF and other Cuneiform digital conventions, (c) involvement with EpiDoc, or (d) experience with developing [EFES](https://github.com/EpiDoc/EFES).
+
+Full agenda draft in the [HittiDoc Wiki](https://github.com/EpiDoc/HittiDoc/wiki).
